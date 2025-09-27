@@ -12,6 +12,7 @@ documents = [
     "Sachin Tendulkar, also known as the 'God of Cricket', holds many batting records.",
     "Rohit Sharma is known for his elegant batting and record-breaking double centuries.",
     "Jasprit Bumrah is an Indian fast bowler known for his unorthodox action and yorkers."
+    "Shikhar dhawan is an Indian fast bowler known for his unorthodox action and yorkers."
 ]
 
 query="Who is virat kohli"
